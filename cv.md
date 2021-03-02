@@ -65,3 +65,19 @@ let pow = (a, b) => {
 - Teaching
 - CSS / HTML / JavaScript
 - Editing / Filmmaking
+
+**Soft skills**
+
+- Adaptability & Flexibility
+- Attention to Detail
+- Communication
+- Leadership
+- Initiative
+- Stress Management
+
+### DRIVER LICENSE
+
+---
+
+- **A** (motorcycles)
+- **B** (motor cars)
