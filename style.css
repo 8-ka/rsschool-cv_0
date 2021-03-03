@@ -19,6 +19,7 @@ body {
   max-height: 200px;
   background-color: blanchedalmond;
   border-bottom: 2px solid #000;
+  margin-bottom: 5px;
 }
 
 .header__avatar {
@@ -52,9 +53,47 @@ body {
   border-bottom: 1px solid grey;
 }
 
+.main {
+  border-bottom: 2px solid #000;
+  margin-bottom: 5px;
+}
+
+.main__container {
+  width: 100%;
+  max-width: 1000px;
+  margin: 0 auto;
+  border-top: 2px solid #000;
+}
+
+.user {
+  border-bottom: 2px solid #000;
+  margin-bottom: 5px;
+}
+
+.user__info {
+  display: flex;
+  justify-content: space-around;
+  padding: 10px;
+  font-weight: 700;
+}
+
 /*FOOTER*/
 
 .footer {
+  width: 100%;
+  max-width: 1000px;
+  margin: 0 auto;
+  font-weight: 700;
   background-color: blanchedalmond;
   border-top: 2px solid #000;
+}
+
+.footer__contacts {
+  display: flex;
+  justify-content: center;
+  padding: 0px 0px 15px 0px;
+}
+
+.contacts__tel {
+  margin-right: 20px;
 }
